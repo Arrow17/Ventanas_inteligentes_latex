@@ -1,6 +1,6 @@
 \babel@toc {english}{}
-\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
-\beamer@subsectionintoc {1}{1}{License}{3}{0}{1}
+\beamer@sectionintoc {1}{Ventanas inteligentes}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{\IeC {\textquestiondown }Que son las ventanas inteligentes?}{3}{0}{1}
 \beamer@sectionintoc {2}{Installation}{5}{0}{2}
 \beamer@subsectionintoc {2}{1}{Source files}{5}{0}{2}
 \beamer@subsectionintoc {2}{2}{Local and Global installation}{6}{0}{2}
