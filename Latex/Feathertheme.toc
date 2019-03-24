@@ -1,10 +1,7 @@
 \babel@toc {english}{}
 \beamer@sectionintoc {1}{Ventanas inteligentes}{3}{0}{1}
 \beamer@subsectionintoc {1}{1}{\IeC {\textquestiondown }Que son las ventanas inteligentes?}{3}{0}{1}
-\beamer@sectionintoc {2}{Installation}{5}{0}{2}
-\beamer@subsectionintoc {2}{1}{Source files}{5}{0}{2}
-\beamer@subsectionintoc {2}{2}{Local and Global installation}{6}{0}{2}
-\beamer@subsectionintoc {2}{3}{Required Packages}{8}{0}{2}
-\beamer@sectionintoc {3}{User Interface}{9}{0}{3}
-\beamer@subsectionintoc {3}{1}{Loading the Theme and Theme Options}{9}{0}{3}
-\beamer@subsectionintoc {3}{2}{Feather image}{11}{0}{3}
+\beamer@subsectionintoc {1}{2}{\IeC {\textquestiondown }Como funcionan?}{4}{0}{1}
+\beamer@subsectionintoc {1}{3}{\IeC {\textquestiondown }Como funcionan?}{5}{0}{1}
+\beamer@subsectionintoc {1}{4}{Ventajas}{6}{0}{1}
+\beamer@subsectionintoc {1}{5}{Video}{7}{0}{1}

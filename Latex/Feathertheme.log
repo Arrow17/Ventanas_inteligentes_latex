@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.18)  24 MAR 2019 13:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.3.18)  24 MAR 2019 17:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1095,28 +1095,343 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
+(/usr/share/texlive/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+
+LaTeX Warning: Command \@arrayparboxrestore  has changed.
+               Check if current package is valid.
+
+(/usr/share/texlive/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/footmisc/footmisc.sty
+Package: footmisc 2011/06/06 v5.5b a miscellany of footnote facilities
+\FN@temptoken=\toks47
+\footnotemargin=\dimen260
+\c@pp@next@reset=\count168
+Package footmisc Info: Declaring symbol style bringhurst on input line 855.
+Package footmisc Info: Declaring symbol style chicago on input line 863.
+Package footmisc Info: Declaring symbol style wiley on input line 872.
+Package footmisc Info: Declaring symbol style lamport-robust on input line 883.
+
+Package footmisc Info: Declaring symbol style lamport* on input line 903.
+Package footmisc Info: Declaring symbol style lamport*-robust on input line 924
+.
+)
+\CenteringLeftskip=\skip66
+\RaggedLeftLeftskip=\skip67
+\RaggedRightLeftskip=\skip68
+\CenteringRightskip=\skip69
+\RaggedLeftRightskip=\skip70
+\RaggedRightRightskip=\skip71
+\CenteringParfillskip=\skip72
+\RaggedLeftParfillskip=\skip73
+\RaggedRightParfillskip=\skip74
+\JustifyingParfillskip=\skip75
+\CenteringParindent=\skip76
+\RaggedLeftParindent=\skip77
+\RaggedRightParindent=\skip78
+\JustifyingParindent=\skip79
+)
+(/usr/share/texlive/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen261
+\SC@CAPWD=\dimen262
+\SC@tempdima=\dimen263
+\SC@tempdimb=\dimen264
+\c@SC@C=\count169
+\SC@BOX=\box58
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyphenat/hyphenat.sty
+Package: hyphenat 2009/09/02 v2.3c hyphenation utilities
+\langwohyphens=\language84
+LaTeX Info: Redefining \_ on input line 43.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/animate/animate.sty
+Package: animate 2018/02/28 PDF animations from files and inline graphics
+
+(/usr/share/texlive/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(/usr/share/texlive/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks48
+\XKV@tempa@toks=\toks49
+)
+\XKV@depth=\count170
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/media9/pdfbase.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2018/02/21 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+Package: expl3 2018/02/21 L3 programming layer (code)
+\c_max_int=\count171
+\l_tmpa_int=\count172
+\l_tmpb_int=\count173
+\g_tmpa_int=\count174
+\g_tmpb_int=\count175
+\g__intarray_font_int=\count176
+\g__prg_map_int=\count177
+\c_log_iow=\count178
+\l_iow_line_count_int=\count179
+\l__iow_line_target_int=\count180
+\l__iow_one_indent_int=\count181
+\l__iow_indent_int=\count182
+\c_zero_dim=\dimen265
+\c_max_dim=\dimen266
+\l_tmpa_dim=\dimen267
+\l_tmpb_dim=\dimen268
+\g_tmpa_dim=\dimen269
+\g_tmpb_dim=\dimen270
+\c_zero_skip=\skip80
+\c_max_skip=\skip81
+\l_tmpa_skip=\skip82
+\l_tmpb_skip=\skip83
+\g_tmpa_skip=\skip84
+\g_tmpb_skip=\skip85
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+\l_keys_choice_int=\count183
+\c__fp_leading_shift_int=\count184
+\c__fp_middle_shift_int=\count185
+\c__fp_trailing_shift_int=\count186
+\c__fp_big_leading_shift_int=\count187
+\c__fp_big_middle_shift_int=\count188
+\c__fp_big_trailing_shift_int=\count189
+\c__fp_Bigg_leading_shift_int=\count190
+\c__fp_Bigg_middle_shift_int=\count191
+\c__fp_Bigg_trailing_shift_int=\count192
+\c__fp_rand_size_int=\count193
+\c__fp_rand_four_int=\count194
+\c__fp_rand_eight_int=\count195
+\l__sort_length_int=\count196
+\l__sort_min_int=\count197
+\l__sort_top_int=\count198
+\l__sort_max_int=\count199
+\l__sort_true_max_int=\count266
+\l__sort_block_int=\count267
+\l__sort_begin_int=\count268
+\l__sort_end_int=\count269
+\l__sort_A_int=\count270
+\l__sort_B_int=\count271
+\l__sort_C_int=\count272
+\l__tl_build_start_index_int=\count273
+\l__tl_build_index_int=\count274
+\l__tl_analysis_normal_int=\count275
+\l__tl_analysis_index_int=\count276
+\l__tl_analysis_nesting_int=\count277
+\l__tl_analysis_type_int=\count278
+\l__regex_internal_a_int=\count279
+\l__regex_internal_b_int=\count280
+\l__regex_internal_c_int=\count281
+\l__regex_balance_int=\count282
+\l__regex_group_level_int=\count283
+\l__regex_mode_int=\count284
+\c__regex_cs_in_class_mode_int=\count285
+\c__regex_cs_mode_int=\count286
+\l__regex_catcodes_int=\count287
+\l__regex_default_catcodes_int=\count288
+\c__regex_catcode_D_int=\count289
+\c__regex_catcode_S_int=\count290
+\c__regex_catcode_L_int=\count291
+\c__regex_catcode_O_int=\count292
+\c__regex_catcode_A_int=\count293
+\c__regex_all_catcodes_int=\count294
+\l__regex_show_lines_int=\count295
+\l__regex_min_state_int=\count296
+\l__regex_max_state_int=\count297
+\l__regex_left_state_int=\count298
+\l__regex_right_state_int=\count299
+\l__regex_capturing_group_int=\count300
+\l__regex_min_pos_int=\count301
+\l__regex_max_pos_int=\count302
+\l__regex_curr_pos_int=\count303
+\l__regex_start_pos_int=\count304
+\l__regex_success_pos_int=\count305
+\l__regex_curr_char_int=\count306
+\l__regex_curr_catcode_int=\count307
+\l__regex_last_char_int=\count308
+\l__regex_case_changed_char_int=\count309
+\l__regex_curr_state_int=\count310
+\l__regex_step_int=\count311
+\l__regex_min_active_int=\count312
+\l__regex_max_active_int=\count313
+\l__regex_replacement_csnames_int=\count314
+\l__regex_match_count_int=\count315
+\l__regex_min_submatch_int=\count316
+\l__regex_submatch_int=\count317
+\l__regex_zeroth_submatch_int=\count318
+\g__regex_trace_regex_int=\count319
+\c_empty_box=\box59
+\l_tmpa_box=\box60
+\l_tmpb_box=\box61
+\g_tmpa_box=\box62
+\g_tmpb_box=\box63
+\l__box_top_dim=\dimen271
+\l__box_bottom_dim=\dimen272
+\l__box_left_dim=\dimen273
+\l__box_right_dim=\dimen274
+\l__box_top_new_dim=\dimen275
+\l__box_bottom_new_dim=\dimen276
+\l__box_left_new_dim=\dimen277
+\l__box_right_new_dim=\dimen278
+\l__box_internal_box=\box64
+\l__coffin_internal_box=\box65
+\l__coffin_internal_dim=\dimen279
+\l__coffin_offset_x_dim=\dimen280
+\l__coffin_offset_y_dim=\dimen281
+\l__coffin_x_dim=\dimen282
+\l__coffin_y_dim=\dimen283
+\l__coffin_x_prime_dim=\dimen284
+\l__coffin_y_prime_dim=\dimen285
+\c_empty_coffin=\box66
+\l__coffin_aligned_coffin=\box67
+\l__coffin_aligned_internal_coffin=\box68
+\l_tmpa_coffin=\box69
+\l_tmpb_coffin=\box70
+\l__coffin_display_coffin=\box71
+\l__coffin_display_coord_coffin=\box72
+\l__coffin_display_pole_coffin=\box73
+\l__coffin_display_offset_dim=\dimen286
+\l__coffin_display_x_dim=\dimen287
+\l__coffin_display_y_dim=\dimen288
+\l__coffin_bounding_shift_dim=\dimen289
+\l__coffin_left_corner_dim=\dimen290
+\l__coffin_right_corner_dim=\dimen291
+\l__coffin_bottom_corner_dim=\dimen292
+\l__coffin_top_corner_dim=\dimen293
+\l__coffin_scaled_total_height_dim=\dimen294
+\l__coffin_scaled_width_dim=\dimen295
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/l3pdfmode.def
+File: l3pdfmode.def 2017/03/18 v L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count320
+\l__driver_tmp_box=\box74
+))
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2018/02/21 LaTeX2e option processing using LaTeX3 keys
+)
+Package: pdfbase 2018/02/28 v0.21 driver independent access to low-level PDF fe
+atures
+\g_pbs_page_int=\count321
+\g_pbs_oc_int=\count322
+)
+(/usr/share/texlive/texmf-dist/tex/latex/ocgx2/ocgbase.sty
+Package: ocgbase 2017/09/29 v0.12 support package for ocgx2.sty
+\g_ocgbase_nd_int=\count323
+)
+\@anim@box=\box75
+\@anim@measbox=\box76
+\@anim@tmpdima=\dimen296
+\@anim@tmpdimb=\dimen297
+\@anim@num=\count324
+\@anim@curframe=\count325
+\@anim@curframe@zb=\count326
+\@anim@resizeflags=\count327
+\@anim@skipfram=\count328
+\@anim@mulframecnt=\count329
+\@anim@@tmlnfile=\read2
+\@anim@tmpcnt=\count330
+\c@@anim@ltxcnt=\count331
+\@anim@curlayer=\count332
+\@anim@lineno=\count333
+\@anim@curfield=\count334
+\@anim@@resizeflags=\count335
+)
+(/usr/share/texlive/texmf-dist/tex/latex/media9/media9.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2018/02/21 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count336
+\g__xparse_grabber_int=\count337
+\l__xparse_m_args_int=\count338
+\l__xparse_mandatory_args_int=\count339
+\l__xparse_v_nesting_int=\count340
+)
+Package: media9 2018/02/28 v0.90 acrobat-9/X compatible media
+\g_mix_pkgresizeflag_int=\count341
+\l_mix_poster_box=\box77
+\g_mix_wd_dim=\dimen298
+\g_mix_ht_dim=\dimen299
+\g_mix_dp_dim=\dimen300
+\g_mix_rmcnt_int=\count342
+\l_mix_viewcnt_int=\count343
+\g@mix@page@int=\count344
+\g_mix_resizeflag_int=\count345
+\l_mix_lineno_int=\count346
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \addmediapath with sig. 'm' on line 804.
+.................................................
+\l_mix_pbtn_box=\box78
+\mix@btn@dim=\dimen301
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \includemedia with sig. 'O{}mm' on line 1212.
+.................................................
+\g_mix_mbtncnt_int=\count347
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \mediabutton with sig. 'O{}m' on line 2418.
+.................................................
+)
+(/usr/share/texlive/texmf-dist/tex/latex/movie15/movie15.sty
+Package: movie15 2012/05/16
+\@MXV@page=\count348
+\@MXV@adict=\count349
+\@MXV@aadict=\count350
+\@MXV@includes=\count351
+\@MXV@players=\count352
+\@MXV@links=\count353
+\@MXV@width=\dimen302
+\@MXV@height=\dimen303
+\@MXV@depth=\dimen304
+\@MXV@totalheight=\dimen305
+\@MXV@@boxdepth=\dimen306
+\@MXV@traiselen=\dimen307
+\@MXV@braiselen=\dimen308
+\@MXV@start=\dimen309
+\@MXV@end=\dimen310
+\@MXV@textbox=\box79
+)
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\\' on input line 56.
+(hyperref)                removing `\\' on input line 61.
 
 (./Feathertheme.aux)
 \openout1 = `Feathertheme.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 76.
+LaTeX Font Info:    ... okay on input line 76.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 76.
  (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
@@ -1156,17 +1471,17 @@ File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count168
-\scratchdimen=\dimen260
-\scratchbox=\box58
-\nofMPsegments=\count169
-\nofMParguments=\count170
-\everyMPshowfont=\toks47
-\MPscratchCnt=\count171
-\MPscratchDim=\dimen261
-\MPnumerator=\count172
-\makeMPintoPDFobject=\count173
-\everyMPtoPDFconversion=\toks48
+\scratchcounter=\count354
+\scratchdimen=\dimen311
+\scratchbox=\box80
+\nofMPsegments=\count355
+\nofMParguments=\count356
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count357
+\MPscratchDim=\dimen312
+\MPnumerator=\count358
+\makeMPintoPDFobject=\count359
+\everyMPtoPDFconversion=\toks51
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1185,8 +1500,8 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 ABD: EveryShipout initializing macros
-\AtBeginShipoutBox=\box59
-Package hyperref Info: Link coloring OFF on input line 71.
+\AtBeginShipoutBox=\box81
+Package hyperref Info: Link coloring OFF on input line 76.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1194,58 +1509,58 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count174
+\c@section@level=\count360
 )
-LaTeX Info: Redefining \ref on input line 71.
-LaTeX Info: Redefining \pageref on input line 71.
-LaTeX Info: Redefining \nameref on input line 71.
+LaTeX Info: Redefining \ref on input line 76.
+LaTeX Info: Redefining \pageref on input line 76.
+LaTeX Info: Redefining \nameref on input line 76.
 
 (./Feathertheme.out) (./Feathertheme.out)
 \@outlinefile=\write5
 \openout5 = `Feathertheme.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 71.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 76.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 71.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 76.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 71.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 71.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 76.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 71.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 71.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 71.
+(Font)                  OT1/cmr/bx/n --> T1/phv/bx/n on input line 76.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 71.
+(Font)                  OT1/cmss/m/n --> T1/phv/m/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 71.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 71.
+(Font)                  OT1/cmss/bx/n --> T1/phv/m/n on input line 76.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 71.
+(Font)                  OT1/cmr/m/it --> T1/phv/m/it on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 71.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 71.
+(Font)                  OT1/cmr/bx/it --> T1/phv/m/it on input line 76.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 71.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 71.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 76.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 71.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 76.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 71.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 71.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 71.
+(Font)                  T1/phv/bx/n --> T1/phv/bx/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 71.
+(Font)                  T1/phv/m/n --> T1/phv/bx/n on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 71.
+(Font)                  T1/phv/m/it --> T1/phv/bx/it on input line 76.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 71.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/bx/n on input line 76.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-basic-dictionary
 -English.dict
@@ -1270,139 +1585,194 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-) (./Feathertheme.nav)
-<Feathergraphics/2.pdf, id=51, 614.26657pt x 794.94157pt>
+)
+Package ragged2e Info: ABD: executing \RaggedRight on input line 76.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 76.
+ (./Feathertheme.nav)
+<Feathergraphics/2.pdf, id=39, 614.26657pt x 794.94157pt>
 File: Feathergraphics/2.pdf Graphic file (type pdf)
 <use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 71.
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 76.
 (pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
 Missing character: There is no ; in font nullfont!
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 80.
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 85.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
 File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    Try loading font information for U+msa on input line 80.
+LaTeX Font Info:    Try loading font information for U+msa on input line 85.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 80.
+LaTeX Font Info:    Try loading font information for U+msb on input line 85.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 80.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 85.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <7> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 80.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 85.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 80.
-<Feathergraphics/1.pdf, id=52, 614.26657pt x 794.94157pt>
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 85.
+<Feathergraphics/1.pdf, id=40, 614.26657pt x 794.94157pt>
 File: Feathergraphics/1.pdf Graphic file (type pdf)
 <use Feathergraphics/1.pdf>
-Package pdftex.def Info: Feathergraphics/1.pdf  used on input line 80.
+Package pdftex.def Info: Feathergraphics/1.pdf  used on input line 85.
 (pdftex.def)             Requested size: 364.19499pt x 273.13919pt.
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./Feathergraphics/1.pdf>]
 (./Feathertheme.toc)
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <14.4> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 85.
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 90.
 File: Feathergraphics/2.pdf Graphic file (type pdf)
 <use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 85.
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 90.
 (pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
 Missing character: There is no ; in font nullfont!
  [2
 
  <./Feathergraphics/2.pdf>]
+Underfull \hbox (badness 2065) in paragraph at lines 108--108
+[]\T1/phv/m/n/10 Se trata de unas ven-tana que
+ []
+
+
+Underfull \hbox (badness 5985) in paragraph at lines 108--108
+\T1/phv/m/n/10 tienen in-cor-po-rado un sis-tema
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 108--108
+\T1/phv/m/n/10 que en cuestión de se-gun-dos,
+ []
+
+<Imagenes/1.jpg, id=78, 302.12875pt x 168.63pt>
+File: Imagenes/1.jpg Graphic file (type jpg)
+<use Imagenes/1.jpg>
+Package pdftex.def Info: Imagenes/1.jpg  used on input line 108.
+(pdftex.def)             Requested size: 151.064pt x 84.31479pt.
 File: Feathergraphics/2.pdf Graphic file (type pdf)
 <use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 98.
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 108.
 (pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
 Missing character: There is no ; in font nullfont!
- [3
+[3
 
-]
+ <./Imagenes/1.jpg>]
+<Imagenes/2.png, id=85, 225.84375pt x 225.84375pt>
+File: Imagenes/2.png Graphic file (type png)
+<use Imagenes/2.png>
+Package pdftex.def Info: Imagenes/2.png  used on input line 126.
+(pdftex.def)             Requested size: 112.92159pt x 112.92159pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+[]\T1/phv/m/n/10 En lu-gar de uti-lizar cristal
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 126--126
+\T1/phv/m/n/10 una tec-nología basada en la
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\T1/phv/m/n/10 ac-ti-vación con-tro-lada de una
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 126--126
+\T1/phv/m/n/10 com-bi-nación de reac-ciones
+ []
+
 File: Feathergraphics/2.pdf Graphic file (type pdf)
 <use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 98.
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 126.
 (pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
 Missing character: There is no ; in font nullfont!
- [4
+[4
 
-]
+ <./Imagenes/2.png>]
+Overfull \hbox (1.32697pt too wide) in paragraph at lines 134--134
+\T1/phv/m/n/10 que al ser ex-puesto a la humedad o la se-quedad del am-bi-ente 
+cam-bian
+ []
+
+
+Overfull \hbox (5.76718pt too wide) in paragraph at lines 134--134
+\T1/phv/m/n/10 su trans-misión óp-tica con-sigu-iendo que las ven-tanas se vuel
+-van opacas
+ []
+
 File: Feathergraphics/2.pdf Graphic file (type pdf)
 <use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 116.
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 134.
 (pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
 Missing character: There is no ; in font nullfont!
- [5
+[5
 
 ]
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 137.
-File: Feathergraphics/2.pdf Graphic file (type pdf)
-<use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 137.
-(pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
-Missing character: There is no ; in font nullfont!
- [6
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+[]\T1/phv/m/n/10 Las ven-tanas in-teligentes no
+ []
 
-]
-File: Feathergraphics/2.pdf Graphic file (type pdf)
-<use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 137.
-(pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
-Missing character: There is no ; in font nullfont!
- [7
 
-]
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <8> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 151.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <6> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 151.
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\T1/phv/m/n/10 re-quieren ninguna adaptación
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--151
+\T1/phv/m/n/10 a las nor-ma-ti-vas vi-gentes,
+ []
+
+
+Underfull \hbox (badness 4303) in paragraph at lines 151--151
+\T1/phv/m/n/10 de una variación en el vidrio
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 151--151
+\T1/phv/m/n/10 que se uti-liza en la ac-tu-al-i-dad.
+ []
+
+
+Underfull \hbox (badness 5741) in paragraph at lines 151--151
+\T1/phv/m/n/10 en aire acondi-cionado du-rante
+ []
+
+
+Underfull \hbox (badness 1371) in paragraph at lines 151--151
+\T1/phv/m/n/10 los meses de calor, ya que al
+ []
+
+
+Underfull \hbox (badness 2181) in paragraph at lines 151--151
+\T1/phv/m/n/10 del am-bi-ente sin necesi-dad de
+ []
+
+<Imagenes/3.jpg, id=99, 642.4pt x 642.4pt>
+File: Imagenes/3.jpg Graphic file (type jpg)
+<use Imagenes/3.jpg>
+Package pdftex.def Info: Imagenes/3.jpg  used on input line 151.
+(pdftex.def)             Requested size: 128.47772pt x 128.47772pt.
 File: Feathergraphics/2.pdf Graphic file (type pdf)
 <use Feathergraphics/2.pdf>
 Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 151.
 (pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
 Missing character: There is no ; in font nullfont!
- [8
+[6
 
-]
-Overfull \vbox (0.326pt too high) detected at line 174
- []
-
+ <./Imagenes/3.jpg>]
 File: Feathergraphics/2.pdf Graphic file (type pdf)
 <use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 174.
+Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 178.
 (pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
 Missing character: There is no ; in font nullfont!
-[9
-
-]
-File: Feathergraphics/2.pdf Graphic file (type pdf)
-<use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 212.
-(pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
-Missing character: There is no ; in font nullfont!
- [10
-
-]
-File: Feathergraphics/2.pdf Graphic file (type pdf)
-<use Feathergraphics/2.pdf>
-Package pdftex.def Info: Feathergraphics/2.pdf  used on input line 233.
-(pdftex.def)             Requested size: 37.40611pt x 48.39796pt.
-Missing character: There is no ; in font nullfont!
- [11
-
-]
-File: Feathergraphics/1.pdf Graphic file (type pdf)
-<use Feathergraphics/1.pdf>
-Package pdftex.def Info: Feathergraphics/1.pdf  used on input line 239.
-(pdftex.def)             Requested size: 364.19499pt x 273.13919pt.
- [12
+ [7
 
 ]
 \tf@nav=\write6
@@ -1414,34 +1784,39 @@ Package pdftex.def Info: Feathergraphics/1.pdf  used on input line 239.
 \tf@snm=\write8
 \openout8 = `Feathertheme.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 241.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 241.
- (./Feathertheme.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 241.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 241.
+
+
+Package movie15 Warning: @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+(movie15)                @@ Package `movie15' is obsolete and @@
+(movie15)                @@ superseded by `media9'.           @@
+(movie15)                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
+(./Feathertheme.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 181.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
 Package rerunfilecheck Info: File `Feathertheme.out' has not changed.
-(rerunfilecheck)             Checksum: 34F2F882A69F90DBDA50BACBFB8A8263;591.
+(rerunfilecheck)             Checksum: A2850DE8E5BE21BA1CD8CBE5B7B0CDC6;390.
  ) 
 Here is how much of TeX's memory you used:
- 21290 strings out of 492982
- 409835 string characters out of 6134896
- 489474 words of memory out of 5000000
- 24317 multiletter control sequences out of 15000+600000
- 52080 words of font info for 74 fonts, out of 8000000 for 9000
+ 31729 strings out of 492982
+ 625981 string characters out of 6134896
+ 731242 words of memory out of 5000000
+ 34699 multiletter control sequences out of 15000+600000
+ 565240 words of font info for 63 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,17n,71p,789b,894s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,17n,71p,10395b,930s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/share/texmf/
-fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texlive/texmf-dist/fonts/t
-ype1/public/amsfonts/symbols/msam10.pfb></usr/share/texmf/fonts/type1/public/cm
--super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb>
-</usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fo
-nts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/urw/helvetic/uhvb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/helve
-tic/uhvr8a.pfb>
-Output written on Feathertheme.pdf (12 pages, 138076 bytes).
+fonts/enc/dvips/cm-super/cm-super-t1.enc}</usr/share/texmf/fonts/type1/public/c
+m-super/sfbx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb
+></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/f
+onts/type1/public/cm-super/sftt1000.pfb></usr/share/texlive/texmf-dist/fonts/ty
+pe1/urw/helvetic/uhvr8a.pfb>
+Output written on Feathertheme.pdf (7 pages, 309045 bytes).
 PDF statistics:
- 210 PDF objects out of 1000 (max. 8388607)
- 171 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
- 149 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 143 PDF objects out of 1000 (max. 8388607)
+ 111 compressed objects within 2 object streams
+ 22 named destinations out of 1000 (max. 500000)
+ 116 words of extra memory for PDF output out of 10000 (max. 10000000)
 
